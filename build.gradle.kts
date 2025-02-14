@@ -8,7 +8,7 @@ plugins {
     kotlin("plugin.spring") version "1.7.10"
 }
 
-val kotlinVersion = "1.7.10"
+val kotlinVersion = "1.7.10" 
 val springBootVersion = "2.7.2"
 val exposedVersion ="0.38.2"
 val postgresVersion = "42.3.6"
